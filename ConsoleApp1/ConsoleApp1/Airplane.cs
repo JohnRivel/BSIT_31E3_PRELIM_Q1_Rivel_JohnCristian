@@ -5,7 +5,7 @@ public class Airplane : Vehicle, IFlyable
     public override string Move()
     {
 
-        return "Flying in the Sky";
+        return "Flying in the sky";
 
     }
 
